@@ -9,14 +9,14 @@ Overview
 This repository contains starting files for the Behavioral Cloning Project.
 
 Some of the files that would interest you are the next:
-* drive.py used to drive the car in the simulator autonomously.
-* graphs.py is used to plot the dataset
-* intermediate_layer.py will export an image of the model as png and the plot you in the screen all the layers for a random image of the dataset.
-* model.h5 is the model generated with Keras
-* model.py used to train the model
-* video.mp4 is a video where you can see the driving taking a full lap around the test track fully autonomously.
-* video.py is used to generate an mp4 video from a serie of images.
-* writeup_report.md which explains how I have worked to solve the problem.
+* `drive.py` used to drive the car in the simulator autonomously.
+* `graphs.py` is used to plot the dataset
+* `intermediate_layer.py` will export an image of the model as png and the plot you in the screen all the layers for a random image of the dataset.
+* `model.h5` is the model generated with Keras
+* `model.py` used to train the model
+* `video.mp4` is a video where you can see the driving taking a full lap around the test track fully autonomously.
+* `video.py` is used to generate an mp4 video from a serie of images.
+* `writeup_report.md` which explains how I have worked to solve the problem.
 
 The Project
 ---

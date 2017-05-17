@@ -11,12 +11,12 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [model]: ./images_report/model.png "Model Visualization"
-[middle_driving]: ./data/IMG/center_2017_04_20_16_50_45_786.jpg "midle drive"
-[sin1]: ./data/IMG/center_2017_05_12_12_03_10_856.jpg "sin drive"
-[sin2]: ./data/IMG/center_2017_05_12_12_03_11_139.jpg "sin drive"
-[sin3]: ./data/IMG/center_2017_05_12_12_03_11_285.jpg "sin drive"
-[sin4]: ./data/IMG/center_2017_05_12_12_03_11_576.jpg "sin drive"
-[sin5]: ./data/IMG/center_2017_05_12_12_03_11_721.jpg "sin drive"
+[middle_driving]: ./images_report/center_2017_04_20_16_50_45_786.jpg "midle drive"
+[sin1]: ./images_report/center_2017_05_12_12_03_10_856.jpg "sin drive"
+[sin2]: ./images_report/center_2017_05_12_12_03_11_139.jpg "sin drive"
+[sin3]: ./images_report/center_2017_05_12_12_03_11_285.jpg "sin drive"
+[sin4]: ./images_report/center_2017_05_12_12_03_11_576.jpg "sin drive"
+[sin5]: ./images_report/center_2017_05_12_12_03_11_721.jpg "sin drive"
 [dataset]: ./images_report/figure_dataset.png "Dataset"
 
 ## Rubric Points

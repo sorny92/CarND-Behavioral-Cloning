@@ -91,7 +91,7 @@ Here in the figure you can find the final architecture used to train the model.
 
 #### 3. Creation of the Training Set & Training Process
 
-To achieve a good driver behavour I decided to make the car drive first a full lap around the circuit in the middle of the road all the time. 
+To achieve a good driver behavour I decided to make the car drive first a full lap around the circuit in the middle of the road all the time.  
 ![alt text][middle_driving]  
 
 This made the car make almost a full lap without any problem, although I wanted to have a more robust driving during all the lap and a achieve a better generalization of the model so I decided to take another full lap but in this case driving from side to side during all the circuit, and then in the opposite direction. Of this way I was able to have a better generalization of the driving because the car was able to recover from every part of the inner part of the track without any problem. As a downside, in the turns the car doesn't always go in the middle of the road.
